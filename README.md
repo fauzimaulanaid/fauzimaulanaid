@@ -3,9 +3,9 @@
 
 I'm an Android Developer with a passion for programming, especially on Android with Kotlin.
 
-## 🚀 About Me
+## About Me
 - 🌱 I’m currently learning about **Android Application Development**
-- 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id), Jakarta, Indonesia with GPA 3.90
+- 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90)
 - 📫 How to reach me: fauzimaulana.id@gmail.com
  
 ## Tech Stack
@@ -23,7 +23,7 @@ I'm an Android Developer with a passion for programming, especially on Android w
 </a>
 </p>
 
-## 📄 Certifications
+## Certifications
 - Dicoding [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/EYX427QQ5ZDL)
 - Dicoding [Belajar Android Jetpack Pro](https://www.dicoding.com/certificates/1OP8L922LZQK)
 - Dicoding [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX476O1JXDL)
@@ -34,7 +34,7 @@ I'm an Android Developer with a passion for programming, especially on Android w
 - Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/N9ZO77678ZG5)
 - EF SET English Certificate [C1 Advanced](https://efset.org/cert/ZvWTUz)
 
-## 📈 Activity Graph
+## Activity Graph
 ![Fauzi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fauzimaulanaid&hide_border=true&theme=redical)
 
 ## Reach me on
