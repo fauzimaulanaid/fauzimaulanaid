@@ -4,8 +4,8 @@
 I'm an Android Developer with a passion for programming, especially on Android with Kotlin.
 
 ## About Me
-- 🌱 I’m currently learning about **Android Application Development**
-- 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90)
+- 🌱 I’m currently working as **Mobile Application Developer**
+- 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90 of 4.00)
 - 📫 How to reach me: fauzimaulana.id@gmail.com
  
 ## Tech Stack
