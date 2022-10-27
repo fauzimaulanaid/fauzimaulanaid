@@ -4,7 +4,7 @@
 I'm an Android Developer with a passion for programming, especially on Android with Kotlin.
 
 ## About Me
-- 🌱 I’m currently working as **Mobile Application Developer (Android)**
+- 🌱 I’m currently working as **Mobile Application Developer (Android)** at [SEUCOM INDONESIA](https://seucom.co.id/)
 - 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90 of 4.00)
 - 📫 How to reach me: fauzimaulana.id@gmail.com
  
