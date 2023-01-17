@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi everyone! I'm Fauzi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm an Android Developer with a passion for programming, especially on Android with Kotlin.
+I'm a Mobile Application Developer with a passion for programming, especially on Android with Kotlin.
 
 ## About Me
 - 🌱 I’m currently working as **Mobile Application Developer (Android)** at [SEUCOM INDONESIA](https://seucom.co.id/)
@@ -25,17 +25,21 @@ I'm an Android Developer with a passion for programming, especially on Android w
 
 ## Certifications
 - Dicoding [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/EYX427QQ5ZDL)
+- Dicoding [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/ERZR0KQQWXYV)
 - Dicoding [Belajar Android Jetpack Pro](https://www.dicoding.com/certificates/1OP8L922LZQK)
+- Dicoding [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/1OP851J9QPQK)
 - Dicoding [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX476O1JXDL)
 - Dicoding [Belajar Prinsip Pemrogaman SOLID](https://www.dicoding.com/certificates/N72ZDGNDQZYW)
 - Dicoding [Belajar Membuat Aplikasi Android Untuk Pemula](https://www.dicoding.com/certificates/2VX32JD6NPYQ)
+- Dicoding [Belajar Membuat Aplikasi iOS untuk Pemula](https://www.dicoding.com/certificates/NVP798OKOZR0)
 - Dicoding [Memulai Pemrogaman Dengan Kotlin](https://www.dicoding.com/certificates/1OP8DWY58PQK)
 - Dicoding [Memulai Pemrogaman Dengan Java](https://www.dicoding.com/certificates/NVP7K1E5RZR0)
+- Dicoding [Memulai Pemrograman Dengan Swift](https://www.dicoding.com/certificates/N9ZO4655DZG5)
 - Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/N9ZO77678ZG5)
 - EF SET English Certificate [C1 Advanced](https://efset.org/cert/ZvWTUz)
 
 ## Activity Graph
-![Fauzi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fauzimaulanaid&hide_border=true&theme=redical)
+![Fauzi's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fauzimaulanaid&hide_border=true&theme=redical)
 
 ## Reach me on
 - <a href="https://linkedin.com/in/fauzimaulana/">LinkedIn</a>
