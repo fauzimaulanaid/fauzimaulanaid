@@ -10,6 +10,7 @@ I'm a Mobile Application Developer with a passion for programming, especially on
  
 ## Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" /></a>
+  <a href="https://developer.android.com/jetpack/compose"><img align="left" alt="Kotlin" title="Jetpack Compose" width="21px" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://erudisi.com/wp-content/uploads/2015/09/mysql-logo.png" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
@@ -37,9 +38,6 @@ I'm a Mobile Application Developer with a passion for programming, especially on
 - Dicoding [Memulai Pemrograman Dengan Swift](https://www.dicoding.com/certificates/N9ZO4655DZG5)
 - Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/N9ZO77678ZG5)
 - EF SET English Certificate [C1 Advanced](https://efset.org/cert/ZvWTUz)
-
-## Activity Graph
-![Fauzi's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fauzimaulanaid&hide_border=true&theme=redical)
 
 ## Reach me on
 - <a href="https://linkedin.com/in/fauzimaulana/">LinkedIn</a>
