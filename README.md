@@ -25,6 +25,7 @@ I'm a Mobile Application Developer with a passion for programming, especially on
 </p>
 
 ## Certifications
+- dev.cert by dev.id [Dev Certification for Android (DCA)](https://dev.id/certificate/verify/XPV7QRYWZ8)
 - Dicoding [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/EYX427QQ5ZDL)
 - Dicoding [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/ERZR0KQQWXYV)
 - Dicoding [Belajar Android Jetpack Pro](https://www.dicoding.com/certificates/1OP8L922LZQK)
@@ -42,7 +43,6 @@ I'm a Mobile Application Developer with a passion for programming, especially on
 ## Reach me on
 - <a href="https://linkedin.com/in/fauzimaulana/">LinkedIn</a>
 - fauzimaulana.id@gmail.com
-- <a href="https://instagram.com/fauzimaulana.id">Instagram</a>
 
 
 
