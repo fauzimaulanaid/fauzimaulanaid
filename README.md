@@ -6,7 +6,7 @@ I'm a Mobile Application Developer with a passion for programming, especially on
 ## About Me
 - 🌱 I’m currently working as **Mobile Application Developer (Android)** at [SEUCOM INDONESIA](https://seucom.co.id/)
 - 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90 of 4.00)
-- 📫 How to reach me: fauzimaulana.id@gmail.com or fauzi@seucom.co.id
+- 📫 How to reach me: fauzimaulana.id@gmail.com
  
 ## Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" /></a>
