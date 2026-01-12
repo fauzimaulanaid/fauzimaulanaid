@@ -14,7 +14,8 @@
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://erudisi.com/wp-content/uploads/2015/09/mysql-logo.png" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
   <br>
-  
+
+<!---
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/fauzimaulanaid">
@@ -22,6 +23,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzimaulanaid&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+--->
 
 ## Certifications
 - dev.cert by dev.id [Dev Certification for Android (DCA)](https://dev.id/certificate/verify/XPV7QRYWZ8)
