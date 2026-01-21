@@ -5,7 +5,6 @@
 - 🌱 I'm an Android Developer with 3+ years of professional experience in developing Android Application. I'm a quick learner and adapt easily to new Android development technologies, allowing me to stay up-to-date with the latest industry trends and best practices.
 - 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90 of 4.00)
 - 📫 How to reach me: fauzimaulana.id@gmail.com
-- 👨🏻‍💻 My Portfolio: [Click here](https://drive.google.com/file/d/14DBfwOSvx2yJIvSxK-APxPThnHNyngWH/view?usp=sharing) 
  
 ## Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" /></a>
