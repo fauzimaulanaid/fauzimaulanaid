@@ -3,7 +3,6 @@
 
 ## About Me
 - 🌱 I'm an Android Engineer with 4+ years of professional experience in developing Android Application. I'm a quick learner and adapt easily to new Android development technologies, allowing me to stay up-to-date with the latest industry trends and best practices.
-- 👨🏻‍💻 I'm currently working as an Android Engineer at [Ajaib](https://ajaib.co.id)
 - 🔭 I’m graduated from Informatics International Class program at [Universitas Mercu Buana](https://mercubuana.ac.id/id) (GPA 3.90 of 4.00)
 - 📫 How to reach me: fauzimaulana.id@gmail.com
  
